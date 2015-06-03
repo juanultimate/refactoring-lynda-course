@@ -1,7 +1,5 @@
 package ec.juanultimate.refactoring.extractmethodwithparams.after;
 
-import ec.juanultimate.refactoring.extractmethodwithparams.after.Item;
-
 import java.util.ArrayList;
 import java.util.List;
 

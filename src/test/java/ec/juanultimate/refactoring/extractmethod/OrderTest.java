@@ -1,9 +1,9 @@
 package ec.juanultimate.refactoring.extractmethod;
 
+import ec.juanultimate.refactoring.extractmethod.after.Customer;
+import ec.juanultimate.refactoring.extractmethod.after.Order;
 import org.junit.Assert;
 import org.junit.Test;
-import ec.juanultimate.refactoring.extractmethod.after.Order;
-import ec.juanultimate.refactoring.extractmethod.after.Customer;
 
 /**
  * Created by JuanGabriel on 21/04/2015.

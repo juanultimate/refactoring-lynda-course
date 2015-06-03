@@ -5,6 +5,7 @@ package ec.juanultimate.refactoring.extractmethodwithparams.after;
  */
 public class Item {
     private Double price=0D;
+    private double quantity;
 
     public double getPrice() {
         return price;
@@ -12,5 +13,13 @@ public class Item {
 
     public void setPrice(double price) {
         this.price = price;
+    }
+
+    public double getQuantity() {
+        return quantity;
+    }
+
+    public void setQuantity(double quantity) {
+        this.quantity = quantity;
     }
 }

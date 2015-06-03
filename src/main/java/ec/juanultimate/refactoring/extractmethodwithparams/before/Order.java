@@ -10,6 +10,9 @@ public class Order {
 
     private Customer customer;
     private List<Item> items = new ArrayList<Item>();
+    private double total;
+    private double discount;
+
     public Order(Customer customer) {
         this.customer=customer;
     }
@@ -17,4 +20,19 @@ public class Order {
         return customer;
     }
 
+    public double getTotal() {
+        return total;
+    }
+
+    public void setTotal(double total) {
+        this.total = total;
+    }
+
+    public double getDiscount() {
+        return discount;
+    }
+
+    public void setDiscount(double discount) {
+        this.discount = discount;
+    }
 }

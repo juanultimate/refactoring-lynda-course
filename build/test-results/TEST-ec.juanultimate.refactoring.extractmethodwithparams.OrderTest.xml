@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ec.juanultimate.refactoring.extractmethodwithparams.OrderTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2015-04-26T05:17:33" hostname="JuanGabriel" time="0.013">
-  <properties/>
-  <testcase name="mustExistOrder" classname="ec.juanultimate.refactoring.extractmethodwithparams.OrderTest" time="0.012"/>
-  <testcase name="orderMustHaveACustomer" classname="ec.juanultimate.refactoring.extractmethodwithparams.OrderTest" time="0.0"/>
-  <testcase name="orderMustHaveItems" classname="ec.juanultimate.refactoring.extractmethodwithparams.OrderTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
